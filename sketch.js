@@ -18,7 +18,7 @@ function setup(){
 
 function draw() {
   background("blue");
-  sea.veleocityX = -3;
+  sea.velocityX = -3;
  if (sea.x < 0 ) {
       sea.x = sea.width/8;
 
