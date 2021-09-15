@@ -8,7 +8,7 @@ function setup(){
   createCanvas(400,400);
   sea = createSprite(400,200);
   sea.addImage (seaImage);
-  sea.veleocityX = -3;
+  sea.velocityX = -3;
   sea.scale = 0.5;
 
   ship= createSprite (130,200,30,30);
