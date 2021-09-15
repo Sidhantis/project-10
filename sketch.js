@@ -1,3 +1,5 @@
+
+
 var ship , shipImage ,seaImage , sea ;
 function preload(){
   seaImage = loadImage ("sea.png");
